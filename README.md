@@ -1,4 +1,6 @@
 # Image-labels-generator-using-Amazon-Rekognition
+![image](https://github.com/user-attachments/assets/6abb1f87-d4a7-4a3b-bbf6-601deaf5aac7)
+
 
 ## Overview of Project ☁️
 In this project, we will be building an image labels generator, using Amazon Rekognition. This is going to be a fun one. Once built, it will be able to recognize and label images. For example, if you have a photo of a cat, Amazon Recognition will be able to identify what it is, and label the image as a cat.
