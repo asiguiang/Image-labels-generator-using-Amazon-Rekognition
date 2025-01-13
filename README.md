@@ -1,0 +1,1 @@
+# Image-labels-generator-using-Amazon-Rekognition
